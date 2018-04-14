@@ -1,0 +1,2 @@
+# infochanbot
+A mysterious bot..
